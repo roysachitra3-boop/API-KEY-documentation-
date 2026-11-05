@@ -6,7 +6,7 @@
 **Research focus:** AI API engineering, LLM integration, and AI development platforms
 **Document type:** Personal research and technical documentation
 **Research snapshot:** November 2026
-**Author:** Sachitra Roy
+**Author:** MR. UNKNOWN and Sachitra Roy
 
 This repository accompanies **[API KEYS.docx](./API%20KEYS.docx)**. Despite the
 document's filename, this project is intended as educational documentation: it
